@@ -4,8 +4,8 @@ import math
 import match_lists
 
 """
-I did not write these
-Sergei maybe?
+Misc functions. 
+Not my own work. 
 """
 
 def angsep(ra1deg,dec1deg,ra2deg,dec2deg):
